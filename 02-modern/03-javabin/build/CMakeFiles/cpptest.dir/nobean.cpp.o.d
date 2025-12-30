@@ -1,5 +1,5 @@
 CMakeFiles/cpptest.dir/nobean.cpp.o: \
- /home/zjp/code/cpp-prj/repo-parallel101/02/03/nobean.cpp \
+ /home/zjp/code/cpp-prj/repo-parallel101/02-modern/03-javabin/nobean.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/fstream \
  /usr/include/c++/11/istream /usr/include/c++/11/ios \
  /usr/include/c++/11/iosfwd \

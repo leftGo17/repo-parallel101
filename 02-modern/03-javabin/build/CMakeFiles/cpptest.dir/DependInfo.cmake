@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/zjp/code/cpp-prj/repo-parallel101/02/03/nobean.cpp" "CMakeFiles/cpptest.dir/nobean.cpp.o" "gcc" "CMakeFiles/cpptest.dir/nobean.cpp.o.d"
+  "/home/zjp/code/cpp-prj/repo-parallel101/02-modern/03-javabin/nobean.cpp" "CMakeFiles/cpptest.dir/nobean.cpp.o" "gcc" "CMakeFiles/cpptest.dir/nobean.cpp.o.d"
   )
 
 # Targets to which this target links.

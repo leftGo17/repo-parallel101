@@ -1,4 +1,4 @@
-# Install script for directory: /home/zjp/code/cpp-prj/repo-parallel101/02/03
+# Install script for directory: /home/zjp/code/cpp-prj/repo-parallel101/02-modern/03-javabin
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/zjp/code/cpp-prj/repo-parallel101/02/03/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/zjp/code/cpp-prj/repo-parallel101/02-modern/03-javabin/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
