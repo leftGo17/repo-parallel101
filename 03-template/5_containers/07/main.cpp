@@ -1,6 +1,6 @@
+#include <cmath>
 #include <iostream>
 #include <optional>
-#include <cmath>
 
 std::optional<float> mysqrt(float x) {
     if (x >= 0.f) {
