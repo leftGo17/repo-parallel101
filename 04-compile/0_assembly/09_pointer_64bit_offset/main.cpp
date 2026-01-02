@@ -1,5 +1,3 @@
-#include <cstdint>
+#include <cstddef>
 
-int func(int *a, std::size_t b) {
-    return a[b];
-}
+int func(int *a, std::size_t b) { return a[b]; }
